@@ -27,7 +27,7 @@ public class MainTest {
     @Test
     public void main() {
         Main.main();
-        assertEquals("Hello World!\n", outContent.toString());
+        assertEquals("Hello World!!\n", outContent.toString());
 
     }
 }
