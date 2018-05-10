@@ -6,6 +6,7 @@ public class Main {
         String hello = null;
         System.out.println(hello.toString());
 
+        // ほげほげ
         String world = "hello world";
         world = "hello jetbrains";
         System.out.println(world);
