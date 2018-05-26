@@ -27,7 +27,7 @@ public class MainTest {
     @Test
     public void main() {
         try {
-            Thread.sleep(1000000);
+            Thread.sleep(30000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
