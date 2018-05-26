@@ -26,6 +26,11 @@ public class MainTest {
     }
     @Test
     public void main() {
+        try {
+            Thread.sleep(1000000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         Main.main();
         assertEquals("Hello World!\n", outContent.toString());
 
