@@ -10,7 +10,7 @@ import java.io.PrintStream;
 
 import static org.junit.Assert.*;
 
-public class MainTest {
+public class ATest {
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private PrintStream preserved;
     @Before
