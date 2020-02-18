@@ -20,6 +20,21 @@
         </dependency>
     </dependencies>
 
+<!--    <build>-->
+<!--        <plugins>-->
+<!--            <plugin>-->
+<!--                <groupId>org.apache.maven.plugins</groupId>-->
+<!--                <artifactId>maven-compiler-plugin</artifactId>-->
+<!--                <version>3.1</version>-->
+<!--                <configuration>-->
+<!--                    <verbose>true</verbose>-->
+<!--                    <fork>true</fork>-->
+<!--                    <executable>/home/yusuke/jdk6/zulu6.22.0.3-jdk6.0.119-linux_x64//bin/javac</executable>-->
+<!--                    <compilerVersion>1.6</compilerVersion>-->
+<!--                </configuration>-->
+<!--            </plugin>-->
 
+<!--        </plugins>-->
+<!--    </build>-->
 
 </project>
